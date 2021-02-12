@@ -1,0 +1,178 @@
+.container_satu {
+    margin-top: 59px;
+    margin-left: 98px;
+}
+
+
+/* Navbar Logo Projek */
+
+.tata_letak {
+    left: 98px;
+    top: 59px;
+    font-size: 25px;
+    font-weight: bold;
+    color: #765430;
+    padding-right: 700px;
+    /* done */
+}
+
+
+/* navbar kanan */
+
+.navbar_kanan {
+    font-size: 20px;
+    font-weight: bold;
+    /* hurung bar kabeh */
+}
+
+.tombol_login {
+    width: 140px;
+    height: 50px;
+    background: #75552C;
+    border-radius: 30px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.tulisan_login {
+    font-size: 20px;
+    color: #F6F3FE;
+    font-weight: 500;
+}
+
+
+/* container dua */
+
+.container_dua {
+    margin-left: 98px;
+}
+
+
+/* css gae paragraf */
+
+.text_satu {
+    font-size: 80px;
+    padding-top: 132px;
+    color: #765430;
+}
+
+.text_dua {
+    font-size: 80px;
+    color: #765430;
+    margin-top: -60px;
+}
+
+.text_tiga {
+    font-size: 40px;
+    color: #765430;
+    margin-top: -30px;
+}
+
+.button_view {
+    width: 380px;
+    height: 70px;
+    border-radius: 20px;
+    background-color: #75552C;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.button_view:hover {
+    background-color: #9D7A4D;
+}
+
+.teks_view {
+    font-size: 30px;
+    color: #F6F3FE;
+    padding-right: 69px;
+    padding-top: 5px;
+}
+
+.ukuran_arrow {
+    width: 50px;
+    margin-top: -130px;
+    margin-left: 230px;
+}
+
+.ukuran_card {
+    width: 200px;
+    height: 160px;
+    border-radius: 35px;
+    box-shadow: inset 0px 100px 100px #EFEFF0;
+    position: absolute;
+    margin-top: 70px;
+}
+
+.card_kecil {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+    left: 160px;
+    top: 623px;
+    background-color: black;
+    margin-top: -650px;
+    margin-left: -95px;
+    border-radius: 10px;
+    background-color: #FDD736;
+}
+
+.letak_text {
+    padding-top: 11px;
+    font-weight: bold;
+    font-size: 15px;
+    color: #75552C;
+    text-align: center;
+}
+
+.jarak_text {
+    padding-top: 1px;
+}
+
+.jarak_kolom2 {
+    padding-left: 320px;
+    margin-bottom: 500px;
+}
+
+
+/* konten kanan */
+
+.gambar {
+    width: 1000px;
+    height: 900px;
+    margin-top: -900px;
+    margin-left: 400px;
+}
+
+.segitiga1 {
+    position: absolute;
+    left: 48.89%;
+    right: 47.64%;
+    top: 25.68%;
+    bottom: 69.43%;
+    filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.25));
+    width: 50px;
+    height: 50px;
+    margin-top: 350px;
+}
+
+.segitiga2 {
+    position: absolute;
+    left: 46.88%;
+    right: 49.65%;
+    top: 46%;
+    bottom: 49.12%;
+    filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.25));
+    width: 50px;
+    height: 50px;
+    margin: auto;
+}
+
+.segitiga3 {
+    position: absolute;
+    left: 53.75%;
+    right: 42.78%;
+    top: 63.67%;
+    bottom: 31.45%;
+    filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.25));
+    width: 50px;
+    height: 50px;
+    margin-top: 250px;
+}
